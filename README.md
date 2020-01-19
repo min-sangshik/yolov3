@@ -16,6 +16,12 @@
   </tr>
 </table>
 
+
+# yolov3 Test with tensorRT on NVIDIA Jetson Nano 
+(NVIDIA Jetson Nano & TensorRT 기반 YOLO3 테스트 수행)
+목표는 파이썬 기반에서 작동하는 코드를 테스트 하는 것임
+* 최초 참조 사이트 : https://medium.com/@penolove15/nvidia-jetson-nano-%E7%94%A8-tensorrt-%E8%B7%91-yolov3-a87ebb0036a7
+
 # Introduction
 
 This directory contains PyTorch YOLOv3 software developed by Ultralytics LLC, and **is freely available for redistribution under the GPL-3.0 license**. For more information please visit https://www.ultralytics.com.
